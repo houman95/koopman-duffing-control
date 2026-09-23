@@ -1,0 +1,91 @@
+{
+  "matlabVersion": "25.2.0.2998904 (R2025b)",
+  "discoverySamples": 10000,
+  "librarySize": 14,
+  "exactCoefficients": [
+    -4.8532022835553516E-15,
+    -1.7141794624624917E-16,
+    -0.66666666666666818,
+    -7.7555426841206716E-18,
+    0.66666666666666485,
+    9.965591470883226E-16,
+    -2.6873550047831196E-17,
+    4.6692425367293551E-16,
+    2.2063082123114252E-16,
+    0.33333333333333337,
+    -1.4643254454050289E-17,
+    2.2095685428983807E-16,
+    -1.1235177976902053E-16,
+    3.6275894547363341E-17
+  ],
+  "exactSignAlignedCoefficientError": 5.520955719389785E-15,
+  "exactSmallestSingularValues": [
+    73.840743244789735,
+    32.642714961615688,
+    5.5996763610271861E-13
+  ],
+  "exactRmsDerivativeResidual": 1.5014388069111665E-14,
+  "leastSquaresSmallestEigenvalue": 1.1441732174194303E-15,
+  "leastSquaresSignAlignedCoefficientError": 1.6603528356433811E-14,
+  "controllerSamples": 5000,
+  "derivativeSamples": 4995,
+  "dataCoefficients": [
+    0,
+    0,
+    -0.66666664034604783,
+    0,
+    0.66666668676886076,
+    0,
+    0,
+    0,
+    0,
+    0.33333334577018114,
+    0,
+    0,
+    0,
+    0
+  ],
+  "dataSignAlignedCoefficientError": 3.5377229493203115E-8,
+  "dataRmsDerivativeResidual": 6.3667345417031062E-7,
+  "dataSmallestSingularValues": [
+    45.251663297728541,
+    19.368553105716142,
+    3.865046646642118E-7
+  ],
+  "coefficientSetDotProduct": 0.99999999999999933,
+  "dataToExactPhysicalScale": 1.3333333333333326,
+  "outOfDomainSeparatrixSamples": 2235,
+  "gradientRelativeErrors": [
+    [
+      5.9689730078414023E-11,
+      2.4339435864953893E-11
+    ],
+    [
+      6.0960585233981475E-11,
+      2.4954859483093923E-11
+    ],
+    [
+      7.1823692025345437E-11,
+      2.8114234485731728E-11
+    ],
+    [
+      8.0066753671057685E-11,
+      3.4177633822270244E-11
+    ]
+  ],
+  "gammaRelativeErrors": [
+    7.38998573501863E-11,
+    8.4141431019309082E-11,
+    9.5537102366260254E-11,
+    9.0108004109288173E-11,
+    8.8137153913486437E-11
+  ],
+  "gradientOrderFiveColumns": 14,
+  "thetaOrderFiveColumns": 20,
+  "zeroInputGainBehavior": "Cannot compute the stabilizing Riccati solution S for the LQR design. \nThis could be because: \n  * (A,E) has imaginary-axis or unit-circle modes that are not controllable through B, \n  * R is not positive definite, \n  * [Q N;N' R] is indefinite, \n  * The E matrix in the state equation is singular.",
+  "colorLine3OnPath": "",
+  "evalCostFunOnPath": "",
+  "initialAnalyticalInput": 5.9143998004869447,
+  "initialMixedCoefficientInput": 7.8858666384340834,
+  "initialConsistentCoefficientInput": 7.8858666384340843
+}
