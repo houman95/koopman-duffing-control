@@ -88,7 +88,7 @@ This writes `docs/validation-results.json`. The audit verifies invariant identif
 
 ## Project history and credits
 
-The MATLAB project and report were completed in **2020** for the Nonlinear Control course. The six MATLAB files and four EPS exports are preserved unchanged. Documentation, PNG previews, and numerical checks were added during repository preparation in 2026. The scientific content of the report is unchanged.
+The MATLAB project and report were completed in **2020**. The six MATLAB files and four EPS exports are preserved unchanged. Documentation, PNG previews, and numerical checks were added during repository preparation in 2026. The scientific content of the report is unchanged.
 
 This project adapts published examples and code. Original notices are retained, and the upstream KRONIC license is included in [licenses/KRONIC-LICENSE.txt](licenses/KRONIC-LICENSE.txt). See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) for attribution and provenance.
 
